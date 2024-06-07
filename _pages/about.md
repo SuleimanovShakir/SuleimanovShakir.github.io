@@ -10,11 +10,10 @@ profile:
   image_circular: false # crops the image to make it circular
   
 news: false # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
-<div align="justify">
 
 Hi! My name is Shakir Suleimanov and I'm a bioinformatician. I graduated from First Moscow State Medical University (Sechenov University) in 2023 and currently, I am doing my Masters at Skoltech. During my education at Sechenov University, I have participated in several projects aimed at studying the biology of innate immune cells under the supervision of Irina Vlasova, Ph.D. (Sechenov University). 
 
