@@ -1,25 +1,21 @@
 ---
 layout: about
-title: about
+title: bio
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+  
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! My name is Shakir Suleimanov and I'm a bioinformatician. I graduated from First Moscow State Medical University (Sechenov University) in 2023 and currently, I am doing my Masters at Skoltech. During my education at Sechenov University, I have participated in several projects aimed at studying the biology of innate immune cells under the supervision of Irina Vlasova, Ph.D. (Sechenov University). Further, I switched to bioinformatics and my current research interest lies in the field of single-cell transcriptomics of immune cells where I analyse CITE-seq data of patients with rheumatoid arthritis under the supervision of Sergey Sennikov, Ph.D. (Sechenov University). Also, I work with Mikhail Myshkin (MiLaboratories) on the automatization of quality control steps for RepSeq kits quality check during my Industrial Immersion. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Last year I studied at the Bioinformatics Institute and currently I continue our work with Maxim Kholmatov (EMBL) on the problem of identification of empty droplets in combinatorially indexed single-cell RNA-seq data. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Besides science, I love trekking, mountaineering and snowboarding. In my free time, I love playing the guitar!
