@@ -15,12 +15,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<span style="font-family: Avenir">
-Hi! My name is Shakir Suleimanov and I'm a bioinformatician. I graduated from First Moscow State Medical University (Sechenov University) in 2023 and currently, I am doing my Masters at Skoltech. During my education at Sechenov University, I have participated in several projects aimed at studying the biology of innate immune cells under the supervision of Irina Vlasova, Ph.D. (Sechenov University). 
+<span style="font-family: Avenir">Hi! My name is Shakir Suleimanov and I'm a bioinformatician. I graduated from First Moscow State Medical University (Sechenov University) in 2023 and currently, I am doing my Masters at Skoltech. During my education at Sechenov University, I have participated in several projects aimed at studying the biology of innate immune cells under the supervision of Irina Vlasova, Ph.D. (Sechenov University).</span>
 
-Further, I switched to bioinformatics and my current research interest lies in the field of single-cell transcriptomics of immune cells where I analyse CITE-seq data of patients with rheumatoid arthritis under the supervision of Sergey Sennikov, Ph.D. (Sechenov University). Also, I work with Mikhail Myshkin (MiLaboratories) on the automatization of quality control steps for RepSeq kits quality check during my Industrial Immersion. 
+<span style="font-family: Avenir">Further, I switched to bioinformatics and my current research interest lies in the field of single-cell transcriptomics of immune cells where I analyse CITE-seq data of patients with rheumatoid arthritis under the supervision of Sergey Sennikov, Ph.D. (Sechenov University). Also, I work with Mikhail Myshkin (MiLaboratories) on the automatization of quality control steps for RepSeq kits quality check during my Industrial Immersion.</span>
 
-Last year I studied at the Bioinformatics Institute and currently I continue our work with Maxim Kholmatov (EMBL) on the problem of identification of empty droplets in combinatorially indexed single-cell RNA-seq data. 
+<span style="font-family: Avenir">Last year I studied at the Bioinformatics Institute and currently I continue our work with Maxim Kholmatov (EMBL) on the problem of identification of empty droplets in combinatorially indexed single-cell RNA-seq data.</span>
 
-Besides science, I love trekking, mountaineering and snowboarding. In my free time, I love playing the guitar!
-</span>
+<span style="font-family: Avenir">Besides science, I love trekking, mountaineering and snowboarding. In my free time, I love playing the guitar!</span>
+
