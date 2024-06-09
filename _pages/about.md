@@ -23,3 +23,4 @@ social: true # includes social icons at the bottom of the page
 
 <span style="font-family: Avenir">Besides science, I love trekking, mountaineering and snowboarding. In my free time, I love playing the guitar!</span>
 
+<br>
