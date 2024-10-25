@@ -23,7 +23,7 @@ Further, I switched to bioinformatics and my current research interest lies in t
   * Study of TILs biology in tumor microenvironment context using sungle-cell transcriptomics under supervision of [Dmitry Chudakov](https://scholar.google.ru/citations?user=eJPnGEEAAAAJ&hl=en) (Skoltech).
   * Automatization of quality control steps for immune repertoire sequencing data using Python/R under supervision of Mikhail Myshkin (MiLaboratories).
 
-Last year I studied at the Bioinformatics Institute and currently I continue our work with Maxim Kholmatov (EMBL) on the problem of identification of empty droplets in combinatorially indexed single-cell RNA-seq data.
+Last year I studied at the Bioinformatics Institute and currently I continue our work with Maxim Kholmatov (EMBL) on the problem of identification of empty droplets in combinatorially indexed single-cell RNA-seq data. Now I work in Bioinformatics Institute as teaching assistant in Statistics and R course.
 
 Besides science, I love trekking, mountaineering and snowboarding. In my free time, I love playing the guitar!
 
