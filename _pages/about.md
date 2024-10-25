@@ -18,6 +18,7 @@ social: true # includes social icons at the bottom of the page
 <div align="justify"><span style="font-family: Avenir">Hi! My name is Shakir Suleimanov and I'm a bioinformatician. I graduated from First Moscow State Medical University (Sechenov University) in 2023 and currently, I am doing my Masters at Skoltech. During my education at Sechenov University, I have participated in several projects aimed at studying the biology of innate immune cells under the supervision of Irina Vlasova, Ph.D. (Sechenov University).</span></div>
 <br>
 <div align="justify"><span style="font-family: Avenir">Further, I switched to bioinformatics and my current research interest lies in the field of single-cell biology of immune cells. Currently I'm working on several projects:
+  
   - CITE-seq data analysis of patients with rheumatoid arthritis under the supervision of Sergey Sennikov (Sechenov University).
   - Study of TILs biology in tumor microenvironment context using sungle-cell transcriptomics under supervision of Dmitry Chudakov (Skoltech).
   - Automatization of quality control steps for immune repertoire sequencing data using Python/R under supervision of Mikhail Myshkin (MiLaboratories). </span></div>
