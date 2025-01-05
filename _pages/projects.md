@@ -5,6 +5,7 @@ permalink: /projects/
 subtitle: "<br>"
 nav: true
 nav_order: 2
+---
 
 ## Oct 2024 - Dec 2024  
 **IBCh RAS**  
