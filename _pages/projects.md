@@ -1,7 +1,7 @@
 ---
 layout: about
 title: projects
-permalink: /
+permalink: /projects/
 subtitle: "<br>"
 
 #profile:
