@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title: projects
 permalink: /projects/
 subtitle: "<br>"
