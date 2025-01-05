@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects2
-permalink: /projects2/
+title: projects
+permalink: /projects/
 subtitle: "<br>"
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 ## Oct 2024 - Dec 2024  
