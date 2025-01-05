@@ -5,14 +5,7 @@ permalink: /teaching/
 subtitle: "<br>"
 nav: true
 nav_order: 3
-
-profile:
-  align: right
-  image: teaching2.png
-  image_circular: true # crops the image to make it circular
 ---
-
-![](/assets/img/teaching.png)
 
 ### Sechenov University
 
@@ -23,3 +16,6 @@ Last years I give the lecture for Master students in Sechenov University: Introd
 ### Bioinformatics Institute 
 
 At Bioinformatics Institute I work as a teaching assistant on Statistics and R course. I give seminars on data manipulation and visualization with *tidyverse* ecosystem and grade students projects.
+
+<img src="../assets/img/teaching.png" style="width:100%; height:100%;">
+
