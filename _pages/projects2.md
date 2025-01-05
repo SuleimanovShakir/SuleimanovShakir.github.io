@@ -1,7 +1,7 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: projects2
+permalink: /projects2/
 subtitle: "<br>"
 nav: true
 nav_order: 2
