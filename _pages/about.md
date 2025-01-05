@@ -20,7 +20,7 @@ Hi! My name is Shakir Suleimanov and I'm a bioinformatician. I graduated from Fi
 Further, I switched to bioinformatics and my current research interest lies in the field of single-cell biology of immune cells. Currently I'm working on several projects (more information is on projects page):
   
   * CITE-seq data analysis of patients with rheumatoid arthritis under the supervision of **[Sergey Sennikov](https://www.researchgate.net/lab/Sergey-V-Sennikov-Lab)** (Sechenov University).
-  * Study of TILs biology in tumor microenvironment context using sungle-cell transcriptomics under supervision of **[Dmitry Chudakov](https://scholar.google.ru/citations?user=eJPnGEEAAAAJ&hl=en)** (Skoltech).
+  * Study of TILs biology in tumor microenvironment context using single-cell transcriptomics under supervision of **[Dmitry Chudakov](https://scholar.google.ru/citations?user=eJPnGEEAAAAJ&hl=en)** (Skoltech).
   * Automatization of quality control steps for immune repertoire sequencing data using Python/R under supervision of **Mikhail Myshkin** (MiLaboratories).
 
 Last year I studied at the Bioinformatics Institute and currently I continue our work with **Maxim Kholmatov** (EMBL) on the problem of identification of empty droplets in combinatorially indexed single-cell RNA-seq data. Now I work in Bioinformatics Institute as teaching assistant in Statistics and R course.
