@@ -3,17 +3,8 @@ layout: page
 title: projects
 permalink: /projects/
 subtitle: "<br>"
-
-#profile:
-#  align: right
-#  image: prof_pic.png
-#  image_circular: false # crops the image to make it circular
-  
-news: false # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
----
+nav: true
+nav_order: 2
 
 ## Oct 2024 - Dec 2024  
 **IBCh RAS**  
