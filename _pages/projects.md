@@ -43,12 +43,15 @@ Read More [on poster](https://SuleimanovShakir.github.io/assets/pdf/industrial_d
 
 Aug 2024 - Present  
 **Laboratory of Immune Engineering, Sechenov University**  
-**Advisor**: [Sergei V. Sennikov](https://www.researchgate.net/lab/Sergey-V-Sennikov-Lab)  
+**Advisor**: [Sergei V. Sennikov](https://www.researchgate.net/lab/Sergey-V-Sennikov-Lab), Alina A. Alshevskaya  
 
+Changes in the expression levels of TNF receptors are closely associated with the pathogenesis of rheumatoid arthritis (RA). The aim of this study was to compare the expression profiles of genes and surface proteins associated with receptor activation at the single-cell level in peripheral blood mononuclear cells (PBMCs) from healthy donors and patients with RA. Another important task was to identify activatory thresholds of TNFR1 and TNFR2 and compare them between healthy donors and patients with RA.
+
+**I have performed**:  
 - GEX and ADT library preprocessing  
 - Count matrices preprocessing (filtration, normalization, batch correction, modality integration)  
 - Manual and automated cell type annotation
-- Downstream analysis: DGA, geneset enrichment, compositional analysis
+- Downstream analysis: DGA, geneset enrichment, compositional analysis, threshold identification
 
 ---
 
