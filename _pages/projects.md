@@ -110,7 +110,7 @@ Read More [in GitHub](https://github.com/SuleimanovShakir/ImmuneSpace_SDY984)
 
 ### **Study of functional activity of human macrophages and effect of MSC secretome on their polarization**
 
-2021 - 2023 
+2021 - 2023  
 **Laboratory of Clinical Smart Nanotechnologies, Sechenov University**  
 **Advisor**: [Irina I. Vlasova](https://www.researchgate.net/profile/Irina-Vlasova), Natasya V. Kosheleva  
 
@@ -131,7 +131,7 @@ Read More [in article](https://stemcellres.biomedcentral.com/articles/10.1186/s1
 
 ### **StopCOVID Research**
 
-2020
+2020  
 **Stop COVID research Team, Sechenov University**  
 **Advisor**: [Daniel Munblit](https://scholar.google.co.uk/citations?user=XAmJMHoAAAAJ&hl=en)
 
@@ -147,7 +147,7 @@ Read More [in article](https://bmcmedicine.biomedcentral.com/articles/10.1186/s1
 
 ### **Redox Optimization of Phagocyte/Scaffold Interactions in Tissue Regeneration**
 
-2019 - 2022
+2019 - 2022  
 **Laboratory of Clinical Smart Nanotechnologies, Sechenov University**  
 **Advisor**: [Irina I. Vlasova](https://www.researchgate.net/profile/Irina-Vlasova), [Valerian E. Kagan](https://scholar.google.com/citations?user=fC2MlOEAAAAJ&hl=en)  
 
