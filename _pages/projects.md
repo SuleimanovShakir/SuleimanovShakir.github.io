@@ -11,7 +11,7 @@ nav_order: 2
 
 Oct 2024 - Dec 2024  
 **IBCh RAS**  
-**Advisor**: Dmitriy Chudakov, Danill Lukianov   
+**Advisor**: [Dmitriy Chudakov](https://scholar.google.ru/citations?user=eJPnGEEAAAAJ&hl=en), Danill Lukianov   
 
 - GEX and TCR library preprocessing  
 - Cell type annotation with label transfer and vertical integration with reference dataset  
@@ -43,7 +43,7 @@ Read More [on poster](https://SuleimanovShakir.github.io/assets/pdf/industrial_d
 
 Aug 2024 - Present  
 **Laboratory of Immune Engineering, Sechenov University**  
-**Advisor**: Sergei V. Sennikov  
+**Advisor**: [Sergei V. Sennikov](https://www.researchgate.net/lab/Sergey-V-Sennikov-Lab)  
 
 - GEX and ADT library preprocessing  
 - Count matrices preprocessing (filtration, normalization, batch correction, modality integration)  
@@ -56,7 +56,7 @@ Aug 2024 - Present
 
 Feb 2024 - Jul 2024  
 **Bioinformatics Institute**  
-**Advisor**: Maxim Kholmatov (EMBL)  
+**Advisor**: [Maxim Kholmatov](https://www.embl.org/people/person/maksim-kholmatov/)  
 
 SUM-seq (Single-cell Ultra-high-throughput Multiomic sequencing) is introduced as a cost-effective and scalable sequencing technique designed for multiplexed multiomics profiling. This method enables the simultaneous profiling of chromatin accessibility and gene expression in single nuclei at an ultra-high-throughput scale, accommodating up to millions of cells and hundreds of samples. The technique refines the two-step combinatorial indexing approach, initially introduced by [Datlinger et al.](https://www.nature.com/articles/s41592-021-01153-z) for snRNA-seq, adapting it specifically for a multiomic context.
 
@@ -108,14 +108,14 @@ Read More [in GitHub](https://github.com/SuleimanovShakir/ImmuneSpace_SDY984)
 ### **Study of functional activity of human macrophages and effect of MSC secretome on their polarization**
 
 2021 - 2023 
-**Laboratory of Clinical Smart Nanotechnologies**  
-**Advisor**: Irina I. Vlasova, Natasya V. Kosheleva  
+**Laboratory of Clinical Smart Nanotechnologies, Sechenov University**  
+**Advisor**: [Irina I. Vlasova](https://www.researchgate.net/profile/Irina-Vlasova), Natasya V. Kosheleva  
 
 In this study we have investigated the functional activities and mechanical properties of human macrophages differentiated into four phenotypes: M0_GM (GM-CSF derived), M0_M (M-CSF derived), M1, and M2. We utilized biochemical and biophysical methods to assess radical-generating activity, phagocytic capacity, and mechanical characteristics. Findings indicate that macrophage polarization significantly influences these functions, with M1 macrophages exhibiting higher radical-generating activity and stiffness, while M2 macrophages showed enhanced phagocytic activity. 
 
 Read More [in article](https://www.mdpi.com/1422-0067/25/3/1860)
 
-Aslo, we analysed the cytokine and growth factor profiles of conditioned media from mesenchymal stromal cells (MSCs) derived from various human tissues, including adipose tissue, bone marrow, gingiva, placenta, and umbilical cord. Conditioned media from umbilical cord-derived MSCs exhibited the highest levels of cytokines and growth factors, so we aimed to understand how this secretome may influence macrophages polarizetion. Despite a predominantly pro-inflammatory cytokine profile, this conditioned media promoted anti-inflammatory (M2) polarization in human macrophages. Thus, umbilical cord-derived MSCs' conditioned media hold significant potential for modulating inflammatory responses.
+Also, we analysed the cytokine and growth factor profiles of conditioned media from mesenchymal stromal cells (MSCs) derived from various human tissues, including adipose tissue, bone marrow, gingiva, placenta, and umbilical cord. Conditioned media from umbilical cord-derived MSCs exhibited the highest levels of cytokines and growth factors, so we aimed to understand how this secretome may influence macrophages polarizetion. Despite a predominantly pro-inflammatory cytokine profile, this conditioned media promoted anti-inflammatory (M2) polarization in human macrophages. Thus, umbilical cord-derived MSCs' conditioned media hold significant potential for modulating inflammatory responses.
 
 Read More [in article](https://stemcellres.biomedcentral.com/articles/10.1186/s13287-023-03381-w)
 
@@ -124,6 +124,36 @@ Read More [in article](https://stemcellres.biomedcentral.com/articles/10.1186/s1
 - Analysis of functional activity with chemiluminescence, expression of markers with flow cytometry, phagocytic activity with fluorescence and confocal microscopy  
 - All statistical data analysis and fluorescence image processing  
 
+---
 
+### **StopCOVID Research**
 
+2020
+**Stop COVID research Team, Sechenov University**  
+**Advisor**: [Daniel Munblit](https://scholar.google.co.uk/citations?user=XAmJMHoAAAAJ&hl=en)
 
+This was a large-scale study aimed to aimed to present demographic characteristics, symptoms, comorbidities, clinical test results, outcomes, and risk factors associated with mortality in a cohort of consecutively admitted patients with COVID-19 at the Sechenov University Hospital Network in Moscow.
+
+Read More [in article](https://academic.oup.com/cid/article/73/1/1/5920244)  
+Read More [in article](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-022-02448-4)
+
+**I have performed**:  
+- Data extraction from patient medical cards
+
+---
+
+### **Redox Optimization of Phagocyte/Scaffold Interactions in Tissue Regeneration**
+
+2019 - 2022
+**Laboratory of Clinical Smart Nanotechnologies, Sechenov University**  
+**Advisor**: [Irina I. Vlasova](https://www.researchgate.net/profile/Irina-Vlasova), [Valerian E. Kagan](https://scholar.google.com/citations?user=fC2MlOEAAAAJ&hl=en)  
+
+Implantation of biomaterials causes the local inflammatory response. Neutrophils are the first immune cells recruited at the site of tissue damage and activated to generate reactive oxygen species (ROS) and oxidants. The subject of this research was to study neutrophil activation in whole blood by two different types of scaffolds (natural and synthetic materials), and evaluate the degradation of the biomaterial by oxidizing agents released by activated neutrophils.
+
+Read More [in article](https://www.mdpi.com/1422-0067/23/24/15468)
+
+**I have performed**:  
+- Human neutrophils isolation and purification
+- Preparation of biomaterials (scaffolds) 
+- Analysis of functional activity with chemiluminescence and flow cytometry
+- All statistical data analysis 
