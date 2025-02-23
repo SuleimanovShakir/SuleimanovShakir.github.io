@@ -7,11 +7,11 @@ nav: true
 nav_order: 2
 ---
 
-### **Study of CD4+ T-cell subsets distribution in antigen-activated PBMC-derived CD4+ T-cells and in tumor microenvironment**
+#### **Study of CD4+ T-cell subsets distribution in antigen-activated PBMC-derived CD4+ T-cells and in tumor microenvironment**
 
 Oct 2024 - Dec 2024  
 **IBCh RAS**  
-**Advisor**: [Dmitriy Chudakov](https://scholar.google.ru/citations?user=eJPnGEEAAAAJ&hl=en), Danill Lukianov   
+**Advisor**: [Dmitriy Chudakov](https://scholar.google.ru/citations?user=eJPnGEEAAAAJ&hl=en), Daniil Lukianov   
 
 - GEX and TCR library preprocessing  
 - Cell type annotation with label transfer and vertical integration with reference dataset  
@@ -20,7 +20,7 @@ Oct 2024 - Dec 2024
 
 ---
 
-### **Development of an automated pipeline for quality control of immune repertoire sequencing (RepSeq kit)**
+#### **Development of an automated pipeline for quality control of immune repertoire sequencing (RepSeq kit)**
 
 Jun 2024 - Oct 2024  
 **Milaboratory**  
@@ -39,7 +39,7 @@ Read More [on poster](https://SuleimanovShakir.github.io/assets/pdf/industrial_d
 
 ---
 
-### **Study of the transcriptional activity of immunoregulatory genes in immune cells during activation of 2 types of TNF receptors in normal conditions and in rheumatoid arthritis using scRNA-seq (CITE-seq)**
+#### **Study of the transcriptional activity of immunoregulatory genes in immune cells during activation of 2 types of TNF receptors in normal conditions and in rheumatoid arthritis using CITE-seq**
 
 Aug 2024 - Present  
 **Laboratory of Immune Engineering, Sechenov University**  
@@ -55,7 +55,7 @@ Changes in the expression levels of TNF receptors are closely associated with th
 
 ---
 
-### **Investigation of Empty Droplets Detection in SUMseq**
+#### **Investigation of Empty Droplets Detection in SUMseq**
 
 Feb 2024 - Jul 2024  
 **Bioinformatics Institute**  
@@ -82,7 +82,7 @@ Read More [in GitHub](https://github.com/maxim-h/bi-kho2-2024)
 
 ---
 
-### **Identification of genes associated with immune response using open database ImmuneSpace**
+#### **Identification of genes associated with immune response using open database ImmuneSpace**
 
 Nov 2022 - Jan 2023  
 **Bioinformatics Institute**  
@@ -108,7 +108,7 @@ Read More [in GitHub](https://github.com/SuleimanovShakir/ImmuneSpace_SDY984)
 
 ---
 
-### **Study of functional activity of human macrophages and effect of MSC secretome on their polarization**
+#### **Study of functional activity of human macrophages and effect of MSC secretome on their polarization**
 
 2021 - 2023  
 **Laboratory of Clinical Smart Nanotechnologies, Sechenov University**  
@@ -129,7 +129,7 @@ Read More [in article](https://stemcellres.biomedcentral.com/articles/10.1186/s1
 
 ---
 
-### **StopCOVID Research**
+#### **StopCOVID Research**
 
 2020  
 **Stop COVID research Team, Sechenov University**  
@@ -145,7 +145,7 @@ Read More [in article](https://bmcmedicine.biomedcentral.com/articles/10.1186/s1
 
 ---
 
-### **Redox Optimization of Phagocyte/Scaffold Interactions in Tissue Regeneration**
+#### **Redox Optimization of Phagocyte/Scaffold Interactions in Tissue Regeneration**
 
 2019 - 2022  
 **Laboratory of Clinical Smart Nanotechnologies, Sechenov University**  
