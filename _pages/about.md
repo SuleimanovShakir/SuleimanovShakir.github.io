@@ -19,7 +19,7 @@ Hi everyone!
 
 My name is Shakir Suleimanov, and I'm a bioinformatician. 
 
-Currently, I am a RESPIRE-EXCEL MSCA Doctoral Network PhD Student. Under supervision of **[Martijn Nawijn](https://scholar.google.com/citations?user=2c19wW4AAAAJ&hl=en)** (UMCG) and **[Malte Lücken](https://scholar.google.com/citations?user=Nr4KBvUAAAAJ&hl=en)** (Helmholtz Munich) I work on integrating single-cell and single-nuc data into reference atlas for COPD and asthma to explore disease-associated shared and unique cell states and trajectories.
+Currently, I am a **[RESPIRE-EXCEL](https://www.respire-excel.eu)** MSCA Doctoral Network PhD Student. Under supervision of **[Martijn Nawijn](https://scholar.google.com/citations?user=2c19wW4AAAAJ&hl=en)** (UMCG) and **[Malte Lücken](https://scholar.google.com/citations?user=Nr4KBvUAAAAJ&hl=en)** (Helmholtz Munich) I work on integrating single-cell and single-nuc data into reference atlas for COPD and asthma to explore disease-associated shared and unique cell states and trajectories.
 
 I did my MD in First Moscow State Medical University (Sechenov University) in 2023 and my MSc in Life Science at Skoltech at 2025. Currently, I'm pursuing my PhD studies in University Medical Center Groningen (UMCG), the Netherlands. 
 
