@@ -15,16 +15,25 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! My name is Shakir Suleimanov and I'm a bioinformatician. I graduated from First Moscow State Medical University (Sechenov University) in 2023 and currently, I am doing my Masters at Skoltech. During my education at Sechenov University, I have participated in several projects aimed at studying the biology of innate immune cells under the supervision of **Irina Vlasova**, Ph.D. (Sechenov University).
+Hi everyone! 
 
-Further, I switched to bioinformatics and my current research interest lies in the field of single-cell biology of immune cells. Currently I'm working on several projects (more information is on projects page):
+My name is Shakir Suleimanov, and I'm a bioinformatician. 
+
+Currently, I am a RESPIRE-EXCEL MSCA Doctoral Network PhD Student. Under supervision of **[Martijn Nawijn](https://scholar.google.com/citations?user=2c19wW4AAAAJ&hl=en)** (UMCG) and **[Malte Lücken](https://scholar.google.com/citations?user=Nr4KBvUAAAAJ&hl=en)** (Helmholtz Munich) I work on integrating single-cell and single-nuc data into reference atlas for COPD and asthma to explore disease-associated shared and unique cell states and trajectories.
+
+I did my MD in First Moscow State Medical University (Sechenov University) in 2023 and my MSc in Life Science at Skoltech at 2025. Currently, I'm pursuing my PhD studies in University Medical Center Groningen (UMCG), the Netherlands. 
+
+During my studies at Sechenov University, I have participated in several projects aimed at studying the biology of innate immune cells, presumably neutrophils and macrophages under the supervision of **Irina Vlasova**, Ph.D. (Sechenov University). I have started in the lab from scratch and during my work, I mastered working protocols for neutrophils analysis and established wet-lab protocol for monocyte-macrophage differentiation.
+
+Further, I switched to bioinformatics and my current research interest lies in the field of single-cell biology. During my studies, I've been working on several projects (more information is on projects page):
   
   * CITE-seq data analysis of patients with rheumatoid arthritis under the supervision of **[Sergey Sennikov](https://www.researchgate.net/lab/Sergey-V-Sennikov-Lab)** (Sechenov University).
-  * Study of TILs biology in tumor microenvironment context using single-cell transcriptomics under supervision of **[Dmitry Chudakov](https://scholar.google.ru/citations?user=eJPnGEEAAAAJ&hl=en)** (Skoltech).
+  * Study of TILs biology in tumor microenvironment (NSCLC) using single-cell transcriptomics under supervision of **[Dmitry Chudakov](https://scholar.google.ru/citations?user=eJPnGEEAAAAJ&hl=en)** (Skoltech).
   * Automatization of quality control steps for immune repertoire sequencing data using Python/R under supervision of **Mikhail Myshkin** (MiLaboratories).
+  * Problem of identification of empty droplets in combinatorially indexed single-cell RNA-seq data **Maxim Kholmatov** (Bioinformatics Institute)
 
-Last year I studied at the Bioinformatics Institute and currently I continue our work with **Maxim Kholmatov** (EMBL) on the problem of identification of empty droplets in combinatorially indexed single-cell RNA-seq data. Now I work in Bioinformatics Institute as teaching assistant in Statistics and R course.
+I work at the **[Bioinformatics Institute](https://bioinf.institute)** as a teaching assistant for the Statistics and R course and the Machine Learning course, and I am also a mentor in the **[Sci.STEPS](https://www.scisteps.org)** mentoring program.
 
-Besides science, I love trekking, mountaineering and snowboarding. In my free time, I love playing the guitar!
+Besides science, I love trekking, mountaineering and traveling. In my free time, I love playing different sports and guitar!
 
 
