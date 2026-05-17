@@ -277,6 +277,13 @@ ul.task-list input[type="checkbox"] {
     margin-top: 1.25rem;
     margin-bottom: 0.35rem;
     font-size: 2.1rem;
+    // Photo column is narrow (160px) but the name shouldn't wrap.
+    // Let the title break out of the column width while staying centered.
+    white-space: nowrap;
+    width: max-content;
+    max-width: none;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .profile-subtitle {
