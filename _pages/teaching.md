@@ -9,13 +9,13 @@ nav_order: 4
 
 ### Sechenov University
 
-At my 2 and 3 years of my studies at Sechenov University, I have mentored medical students, who just started their career in science. This was my first mentroship under guidance of Center for Scientific Career at Sechenov University.
+In my 2nd and 3rd years at Sechenov University, I mentored medical students who were just starting their scientific careers. This was my first mentorship experience, under the guidance of the Center for Scientific Career at Sechenov University.
 
-Last years I give the lecture for Master students in Sechenov University: Introduction to NGS technologies.
+In recent years, I have also given lectures for Master's students at Sechenov University on the course *Introduction to NGS Technologies*.
 
-### Bioinformatics Institute 
+### Bioinformatics Institute
 
-At Bioinformatics Institute I work as a teaching assistant on Statistics and R course. I give seminars on data manipulation and visualization with *tidyverse* ecosystem and grade students projects.
+At the Bioinformatics Institute I work as a teaching assistant on the *Statistics and R* course. I lead seminars on data manipulation and visualization with the *tidyverse* ecosystem, and grade students' projects.
 
-<img src="../assets/img/teaching.png" style="width:100%; height:100%;">
+<img src="../assets/img/teaching.png" alt="Teaching at the Bioinformatics Institute" style="width:100%; height:auto;">
 

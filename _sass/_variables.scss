@@ -7,8 +7,8 @@
 $red-color: #ff3636 !default;
 $red-color-dark: #b71c1c !default;
 $orange-color: #f29105 !default;
-$blue-color: #0076df !default;
-$blue-color-dark: #00369f !default;
+$blue-color: #1d6f9c !default;      // NEW primary: deep teal-blue
+$blue-color-dark: #14587e !default; // NEW darker shade for hover states
 $cyan-color: #2698ba !default;
 $light-cyan-color: lighten($cyan-color, 25%);
 $green-color: #00ab37 !default;
@@ -22,10 +22,18 @@ $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
 
+// NEW: warm amber accent for hover / highlights
+$amber-color: #e07a3a !default;
+$amber-color-light: lighten($amber-color, 25%);
+
 $grey-color: #828282 !default;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark: #1c1c1d;
 $grey-900: #212529;
+
+// NEW: warmer off-white background and softer dark mode background
+$bg-light: #fafaf7 !default;
+$bg-dark:  #1a1d24 !default;
 
 $white-color: #ffffff !default;
 $black-color: #000000 !default;

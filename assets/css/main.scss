@@ -6,6 +6,13 @@
 // Dimensions
 $max-content-width: {{ site.max_width }};
 
+// NOTE: Font Awesome, Tabler Icons, and Academicons are now loaded via CDN
+// in _includes/head.liquid (see <!-- Fonts & Icons --> block). The local SCSS
+// copies in _sass/font-awesome and _sass/tabler-icons reference webfont files
+// that aren't shipped in this repo (assets/webfonts and assets/fonts don't
+// exist), so importing them produced 404s and broken glyphs. Loading from
+// jsDelivr / cdnjs avoids vendoring ~800KB of font binaries.
+
 @import
   "variables",
   "themes",
@@ -14,12 +21,5 @@ $max-content-width: {{ site.max_width }};
   "distill",
   "cv",
   "tabs",
-  "typograms",
-  "font-awesome/fontawesome",
-  "font-awesome/brands",
-  "font-awesome/solid",
-  "font-awesome/regular",
-  "tabler-icons/tabler-icons.scss",
-  "tabler-icons/tabler-icons-filled.scss",
-  "tabler-icons/tabler-icons-outline.scss"
+  "typograms"
 ;

@@ -22,9 +22,25 @@
 {% endif %}
 
 <!-- Fonts & Icons -->
-<link defer rel="stylesheet" href="{{ '/assets/css/academicons.min.css' | relative_url | bust_file_cache }}">
+<!-- Font Awesome 6 (icons in social.liquid use fa-solid / fa-brands classes) -->
 <link
-  defer
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+  integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+  crossorigin="anonymous"
+  referrerpolicy="no-referrer"
+>
+<!-- Tabler Icons (used by navbar search/theme toggle: ti ti-* classes) -->
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3.0.1/dist/tabler-icons.min.css"
+>
+<!-- Academicons (academic profile icons: ai ai-* classes, e.g. ORCID, Scholar) -->
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/academicons@1.9.4/css/academicons.min.css"
+>
+<link
   rel="stylesheet"
   type="text/css"
   href="{{ site.third_party_libraries.google_fonts.url.fonts }}"
