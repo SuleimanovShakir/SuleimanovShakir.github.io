@@ -7,6 +7,21 @@ nav: true
 nav_order: 2
 ---
 
+#### **Lung disease single-cell atlasing — Human Lung Cell Atlas v2 & COPD-Airways Atlas**
+
+Oct 2025 - Present  
+**UMCG (University Medical Center Groningen) & Helmholtz Munich**  
+**Advisors**: [Martijn Nawijn](https://scholar.google.com/citations?user=2c19wW4AAAAJ&hl=en) (UMCG), [Malte Lücken](https://scholar.google.com/citations?user=Nr4KBvUAAAAJ&hl=en) (Helmholtz Munich)
+
+Two parallel atlas-building projects within the [RESPIRE-EXCEL](https://www.respire-excel.eu) MSCA Doctoral Network — the next iteration of the **Human Lung Cell Atlas (v2)** and a dedicated **COPD-airways atlas**. The goal is to integrate large-scale single-cell and single-nucleus datasets into harmonised references and to characterise disease-associated shared and unique cell states and trajectories in chronic inflammatory airway diseases.
+
+**I work on**:
+- Hyperparameter optimization for CVAE-based integration models
+- Cell type annotation across the integrated atlases
+- Downstream analysis of disease-associated cell states and trajectories
+
+---
+
 #### **Study of CD4+ T-cell subsets distribution in antigen-activated PBMC-derived CD4+ T-cells and in tumor microenvironment**
 
 Oct 2024 - Dec 2024  
