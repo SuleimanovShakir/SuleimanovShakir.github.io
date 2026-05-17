@@ -16,7 +16,14 @@ layout: default
 
   <article>
     {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+      {% if page.profile.align == 'center' %}
+        {% assign profile_align_class = 'profile-center' %}
+      {% elsif page.profile.align == 'left' %}
+        {% assign profile_align_class = 'float-left' %}
+      {% else %}
+        {% assign profile_align_class = 'float-right' %}
+      {% endif %}
+      <div class="profile {{ profile_align_class }}">
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% if page.profile.image_circular %}
