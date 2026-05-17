@@ -7,7 +7,7 @@ subtitle: Bioinformatician · single-cell atlasing of lung diseases · UMCG
 profile:
   align: center
   image: prof_pic.png
-  image_circular: false
+  image_circular: true
 
 news: false
 latest_posts: false

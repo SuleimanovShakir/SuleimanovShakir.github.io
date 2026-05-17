@@ -253,7 +253,7 @@ ul.task-list input[type="checkbox"] {
   float: none;
   display: block;
   width: 100%;
-  max-width: 320px;
+  max-width: 160px;  // ~half of the previous 320px — landing-page sized
   margin: 0 auto 1.5rem;
   text-align: center;
 
@@ -306,7 +306,7 @@ ul.task-list input[type="checkbox"] {
   // Keep centered profile narrow on larger screens too — don't expand to 30%
   .profile.profile-center {
     width: 100%;
-    max-width: 320px;
+    max-width: 160px;
   }
 }
 
