@@ -249,18 +249,24 @@ ul.task-list input[type="checkbox"] {
 }
 
 // Centered profile — used by landing page (e.g. /me/).
-// The column itself is full width so the title/subtitle can center across
-// the whole article. Only the photo is constrained to avatar size.
+// Flex column with align-items: center so the avatar and the name
+// share the same horizontal centerline regardless of their individual
+// widths. Relying on margin: 0 auto + text-align: center on a block
+// container drifted visually (figure UA margins, h1 taking full row
+// width); flex is the bulletproof fix.
 .profile.profile-center {
   float: none;
-  display: block;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   width: 100%;
   max-width: none;
   margin: 0 auto 1.5rem;
   text-align: center;
 
   figure {
-    margin: 0 auto;
+    margin: 0;
+    padding: 0;
     max-width: 160px;  // avatar size — ~half of the original 320px column
   }
 
