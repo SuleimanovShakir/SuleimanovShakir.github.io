@@ -261,6 +261,29 @@ ul.task-list input[type="checkbox"] {
     display: block;
     margin: 0 auto;
     max-width: 100%;
+
+    // Force a real circle for circular profiles — the .profile img
+    // border-radius rule above otherwise wins over Bootstrap's .rounded-circle.
+    &.rounded-circle {
+      border-radius: 50%;
+      aspect-ratio: 1 / 1;
+      object-fit: cover;
+    }
+  }
+
+  // Name + tagline rendered inside the profile column (below the photo)
+  // when align: center — see _layouts/about.liquid
+  .profile-title {
+    margin-top: 1.25rem;
+    margin-bottom: 0.35rem;
+    font-size: 2.1rem;
+  }
+
+  .profile-subtitle {
+    color: var(--global-text-color-light);
+    margin-bottom: 0;
+    font-size: 1rem;
+    line-height: 1.45;
   }
 
   .more-info {
