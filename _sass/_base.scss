@@ -557,6 +557,27 @@ article {
   }
 }
 
+// On about-layout pages (/me, /bio) hyperlinks inherit body color and
+// rely on bold weight + a subtle hover underline for affordance, rather
+// than the site-wide teal link color.
+.about-content {
+  a,
+  a:visited {
+    color: inherit;
+    font-weight: 600;
+    text-decoration: none;
+    transition: text-decoration-color 0.15s ease-in-out;
+
+    &:hover,
+    &:focus {
+      color: inherit;
+      text-decoration: underline;
+      text-decoration-thickness: 1.5px;
+      text-underline-offset: 3px;
+    }
+  }
+}
+
 // Smoother card hover for any .card on the site
 .card {
   border: 1px solid var(--global-divider-color);
