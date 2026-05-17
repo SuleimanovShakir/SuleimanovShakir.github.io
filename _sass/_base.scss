@@ -248,14 +248,21 @@ ul.task-list input[type="checkbox"] {
   margin-right: 1rem;
 }
 
-// Centered profile — used by landing page (e.g. /me/)
+// Centered profile — used by landing page (e.g. /me/).
+// The column itself is full width so the title/subtitle can center across
+// the whole article. Only the photo is constrained to avatar size.
 .profile.profile-center {
   float: none;
   display: block;
   width: 100%;
-  max-width: 160px;  // ~half of the previous 320px — landing-page sized
+  max-width: none;
   margin: 0 auto 1.5rem;
   text-align: center;
+
+  figure {
+    margin: 0 auto;
+    max-width: 160px;  // avatar size — ~half of the original 320px column
+  }
 
   img {
     display: block;
@@ -272,18 +279,12 @@ ul.task-list input[type="checkbox"] {
   }
 
   // Name + tagline rendered inside the profile column (below the photo)
-  // when align: center — see _layouts/about.liquid
+  // when align: center — see _layouts/about.liquid. They inherit
+  // text-align: center from the parent so no extra centering needed.
   .profile-title {
     margin-top: 1.25rem;
     margin-bottom: 0.35rem;
     font-size: 2.1rem;
-    // Photo column is narrow (160px) but the name shouldn't wrap.
-    // Let the title break out of the column width while staying centered.
-    white-space: nowrap;
-    width: max-content;
-    max-width: none;
-    margin-left: auto;
-    margin-right: auto;
   }
 
   .profile-subtitle {
@@ -310,10 +311,11 @@ ul.task-list input[type="checkbox"] {
     }
   }
 
-  // Keep centered profile narrow on larger screens too — don't expand to 30%
+  // Centered profile keeps its full-width column on larger screens too;
+  // the 30% rule above only applies to floated left/right profiles.
   .profile.profile-center {
     width: 100%;
-    max-width: 160px;
+    max-width: none;
   }
 }
 
