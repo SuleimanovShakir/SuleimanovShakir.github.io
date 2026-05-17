@@ -2,7 +2,6 @@
 layout: about
 title: me
 permalink: /
-subtitle: Bioinformatician · single-cell atlasing of lung diseases · UMCG
 
 profile:
   align: center
