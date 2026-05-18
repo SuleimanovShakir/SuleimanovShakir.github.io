@@ -41,23 +41,24 @@ layout: default
             cache_bust=true
           %}
         {% endif %}
-        {% if page.profile.align == 'center' %}
-          <h1 class="post-title profile-title">
-            {% if site.title == 'blank' %}
-              <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
-              {{ site.last_name }}
-            {% else %}
-              {{ site.title }}
-            {% endif %}
-          </h1>
-          {% if page.subtitle %}
-            <p class="desc profile-subtitle">{{ page.subtitle }}</p>
-          {% endif %}
-        {% endif %}
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
       </div>
+    {% endif %}
+
+    {% if page.profile.align == 'center' %}
+      <h1 class="post-title profile-title">
+        {% if site.title == 'blank' %}
+          <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
+          {{ site.last_name }}
+        {% else %}
+          {{ site.title }}
+        {% endif %}
+      </h1>
+      {% if page.subtitle %}
+        <p class="desc profile-subtitle">{{ page.subtitle }}</p>
+      {% endif %}
     {% endif %}
 
     <div class="clearfix about-content">{{ content }}</div>

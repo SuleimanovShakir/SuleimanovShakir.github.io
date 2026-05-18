@@ -284,32 +284,29 @@ ul.task-list input[type="checkbox"] {
     }
   }
 
-  // Name + tagline rendered inside the profile column (below the photo)
-  // when align: center — see _layouts/about.liquid. They inherit
-  // text-align: center from the parent so no extra centering needed.
-  // Name is left-aligned with the body copy below, even though the
-  // avatar stays centered. align-self: stretch lets the h1 span the
-  // full column width so its text-align: left lines up with the
-  // article's left edge.
-  .profile-title {
-    align-self: stretch;
-    margin-top: 1.25rem;
-    margin-bottom: 0.35rem;
-    font-size: 2.1rem;
-    text-align: left;
-  }
-
-  .profile-subtitle {
-    color: var(--global-text-color-light);
-    margin-bottom: 0;
-    font-size: 1rem;
-    line-height: 1.45;
-  }
-
   .more-info {
     margin-top: 0.75rem;
     text-align: center;
   }
+}
+
+// Name + tagline for the centered-profile about layout (e.g. /me).
+// Rendered as direct children of <article>, siblings of the avatar
+// column and the body copy, so their left edge naturally lines up
+// with the body paragraphs.
+.profile-title {
+  margin-top: 1.25rem;
+  margin-bottom: 0.35rem;
+  font-size: 2.1rem;
+  text-align: left;
+}
+
+.profile-subtitle {
+  color: var(--global-text-color-light);
+  margin-bottom: 0;
+  font-size: 1rem;
+  line-height: 1.45;
+  text-align: left;
 }
 
 @media (min-width: 576px) {
